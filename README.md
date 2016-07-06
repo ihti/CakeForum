@@ -3,4 +3,4 @@ CakeForum is a fast and lightweight CakePHP powered forum app with very basic fu
 
 ----------
 
-*My old open source project written in 2007*
+*My old open source project written in 2009*
